@@ -1,0 +1,71 @@
+@font-face{
+    font-family: z;
+    src: url(../include/grafia/Sweet\ Hipster.ttf)
+}
+
+body{
+    background-color: rgb(153, 168, 253);    
+    width: 100%;
+    background-size: 100% 100%;
+}
+
+.container{
+    width: 70%;
+    height: 950px;
+    background-size: 100% 100%;
+    border-radius: 10px;
+}
+
+h1{
+    font-family: z;
+    font-size: 100px;
+    color: hsl(211, 100%, 41%);
+    text-shadow: 3px 3px rgb(7, 0, 110);
+}
+h6{
+    font-family: 'Times New Roman', Times, serif;
+    color: rgb(7, 0, 110);
+    text-shadow: 1px 1px hsl(211, 100%, 41%);
+}
+
+a{
+font-family: z;
+font-size: 35px;
+color: hsl(211, 100%, 41%);
+text-shadow: 1px 1px rgb(7, 0, 110);
+}
+
+p{
+    color: hsl(211, 100%, 41%);
+    text-shadow: 1px 1px rgb(7, 0, 110);
+}
+
+#codigo_usuario{
+border-radius: 10px;
+border-color: hsl(211, 100%, 41%);
+}
+
+#nombre_usuario{
+border-radius: 10px;
+border-color: hsl(211, 100%, 41%);
+}
+
+#apellido_usuario{
+border-radius: 10px;
+border-color: hsl(211, 100%, 41%);
+}
+
+#cedula_usuario{
+border-radius: 10px;
+border-color: hsl(211, 100%, 41%);
+}
+#edad_usuario{
+border-radius: 10px;
+border-color: hsl(211, 100%, 41%);
+}
+
+#tel_usuario{
+border-radius: 10px;
+border-color: hsl(211, 100%, 41%);
+}
+
